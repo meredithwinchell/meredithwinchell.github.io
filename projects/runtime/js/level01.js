@@ -150,7 +150,7 @@ var level01 = function (window) {
                 createReward(300,groundY);
                 createReward(600,groundY);
                 createReward(1000,groundY);
-                createReward(1700,groundY);
+                createReward(1700, groundY);
                 
            
                     
